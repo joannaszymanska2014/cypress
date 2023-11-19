@@ -1,0 +1,12 @@
+{
+    "jsasia": {
+        "login": "jsasia",
+        "password": "1234567890",
+        "email": "jakisEmail"
+    },
+    "user2": {
+        "login": "user2",
+        "password": "1234567890",
+        "email": "jakisEmail"
+    }
+}
